@@ -3,7 +3,7 @@ const checkSum = require('./tsv-checksum');
 describe('isTsvCheckSumCorrect', () => {
     const tests = [ 
         {
-            name: 'Example form task description should be false ',
+            name: 'Example from task description should be false ',
             path: 'task-2/assets/01-general.tsv',
             clientCheckSum: '32121',
             expectedResult: false,
