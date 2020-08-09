@@ -21,6 +21,6 @@ A code test requested by Byte.
 
 ## Techologies used
 
-**tasks 1-2:** NodeJs
+**tasks 1-2:** NodeJs and Jest.
 
 **task 3-4:** PostgreSQl 12 and DBvisualizer
