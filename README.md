@@ -23,4 +23,4 @@ A code test requested by Byte.
 
 **tasks 1-2:** NodeJs and Jest.
 
-**task 3-4:** PostgreSQl 12 and DBvisualizer
+**tasks 3-4:** PostgreSQl 12 and DBvisualizer
